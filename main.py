@@ -1,4 +1,4 @@
-METERS_IN_KM = 1000.
+METERS_IN_KM = 1000.0
 GRAMS_IN_POUND = 453.6
 
 print("Program starting.")
